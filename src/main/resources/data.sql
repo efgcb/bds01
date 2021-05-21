@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Ana Tereza de A. Vasques','60391698001',436.65,'1979-02-23T10:22:00Z',2,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Brisa Silva Bracchi','03744860000',2345.00,'1976-01-11T10:30:00Z',1,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Debora Kaynara Patricio da Silva','86653838080',1200.00,'1980-12-20T09:30:00Z',3,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Glaucia Adriana Dantas Pereira','82589222033',830.00,'1991-09-10T12:30:00Z',5,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Isabele Acciolo P. Lima','65380357016',5000.00,'2010-12-10T15:30:00Z',2,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('vausck Maria L. da Costa','68516449084',5300.00,'1993-03-06T18:30:00Z',4,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Joane Maria da Silva Carvalho','04005531040',2300.00,'1992-04-05T18:30:00Z',3,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Kalyne Ribeiro Dantas Q. de Vasconcelos','36210157017',2800.00,'1990-07-13T17:20:00Z',0,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Kênia Stephanie Nunes Arruda','34479524070',2700.00,'1988-07-12T18:45:00Z',0,NOW());
+INSERT INTO tb_client (name,cpf,income,birth_Date,children,created_At) VALUES ('Lorena Alcântara de Farias','69557687002',4200.00,'1999-11-13T00:43:00Z',0,NOW());
